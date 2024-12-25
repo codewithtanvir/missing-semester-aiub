@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `THE MISSING SEMESTER-AIUB`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Join Our Discord Community`,
+      href: "https://discord.gg/uTwRgRs5zp",
     },
   ],
   // blog setting (required)
