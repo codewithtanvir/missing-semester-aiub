@@ -4,7 +4,12 @@ const CONFIG = {
     name: "The Missing Semester-AIUB",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     bio: "Through Community-Driven Learning.",
-
+    role: "",
+   
+    email: "",
+    linkedin: "",
+    github: "",
+    instagram: "",
     discord: "https://discord.gg/uTwRgRs5zp",
   },
   projects: [
